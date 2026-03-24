@@ -26,7 +26,7 @@ The repository is organized into modular components for scalability:
 ### 2. Installation
 Clone the repository
 ```bash
-git clone [https://github.com/ankit-11/ai-control.git](https://github.com/ankit-11/ai-control.git)
+git clone https://github.com/ankit-11/ai-control
 cd ai-control
 ```
 Install dependencies
